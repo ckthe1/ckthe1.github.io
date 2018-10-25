@@ -30,9 +30,9 @@ p{
 container{
   text-align: left;
   margin-top: 20px;
-  margin-left: 100px;
-  margin-right: 100px;
-  margin-bottom: 30px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
 }
 #professionalexp{
   margin-left: 75px;
