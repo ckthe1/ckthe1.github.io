@@ -1,6 +1,6 @@
 h3{
   font-size: 20px;
-  margin-nottom: -12px;
+  margin-nottom: -14px;
 }
 h4{
   font-size: 16px;
@@ -8,6 +8,7 @@ h4{
 }
 li{
   font-size: 14px;
+  margin-top: 5px;
 }
 p{
   margin-bottom: -12px;
