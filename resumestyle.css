@@ -1,10 +1,10 @@
 h3{
   font-size: 20px;
-  margin-nottom: -5px;
+  margin-nottom: -10px;
 }
 h4{
   font-size: 16px;
-  margin-bottom: -5px;
+  margin-bottom: -10px;
 }
 li{
   font-size: 12px;
@@ -24,17 +24,17 @@ container{
   text-align: left;
 }
 #uofp{
-  margin-left: 10px;
+  margin-left: 15px;
 }
 #uofm{
-  margin-left: 10px;
+  margin-left: 15px;
 }
 #ctcc{
-  margin-left: 10px;
+  margin-left: 15px;
 }
 #pstc{
-  margin-left: 10px;
+  margin-left: 15px;
 }
 #ltgb{
-  margin-left: 10px;
+  margin-left: 15px;
 }
