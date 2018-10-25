@@ -1,10 +1,12 @@
-
-
-<body>
+<!doctype html>
+<html>
+<head>
   <h3>Cheng-kou Tongkhuya</h3>
-  <h4>11170 Sand Castle Drive, Unit D 
-    Woodbury, MN 55129 Cell:(612)-308-8053 email:chengkou@gmail.com</h4>
-  <h3>Employment__________________________________________________________________________</h3>
+  <h4>11170 Sand Castle Drive, Unit D Woodbury, MN 55129 Cell:(612)-308-8053 email:chengkou@gmail.com</h4>
+</head>
+<body>
+  <h4>Professional Experience</h4>
+  <h5>Source Engineering and Manufacturing</h5>
 
 
   <ul>
@@ -13,3 +15,7 @@
     <li>reserve a bike</li>
     <li>about us</li>
   </ul>
+  
+  
+ </body>
+ </html>
