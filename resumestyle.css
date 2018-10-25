@@ -9,12 +9,15 @@ li{
 }
 container{
   text-align: left;
+  margin-top:20px;
+  margin-left:20px;
+  margin-bottom:20px;
 }
 #professionalexp{
-  margin-left: 100px;
+  margin-left: 80px;
   text-align: left
 }
 #education{
-  margin-left: 100px;
+  margin-left: 80px;
   text-align: left;
 }
