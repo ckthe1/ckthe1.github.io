@@ -30,7 +30,8 @@ p {
 }
 #container {
   text-align: left;
- margin: 25px 100px;  
+  margin: 25px 100px;  
+  background-color: #c0c0c0;
 }
 #professionalexp {
   margin-left: 75px;
