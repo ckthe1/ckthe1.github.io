@@ -1,17 +1,17 @@
-h1{
+h1 {
   font-size: 16px;
   margin-bottom: -12px;
   margin-top: 12px;
 }
-h2{
+h2 {
   font-size: 18px;
   margin-bottom: -12px;
 }
-h3{
+h3 {
   font-size: 20px;
   margin-bottom: -14px;
 }
-h4{
+h4 {
   font-size: 18px;
   margin-bottom: -12px;
   margin-top: 30;
@@ -21,46 +21,46 @@ h4{
   border-right-style: hidden;
   border-width: 3px;
 }
-li{
+li {
   font-size: 14px;
   margin-top: 5px;
 }
-p{
-  
+p {
+ margin-bottom: -12; 
 }
-#container{
+#container {
   text-align: left;
   margin-top: 20px;
   margin-left: 75px;
   margin-bottom: 20px;
   margin-right: 75px; 
 }
-#professionalexp{
+#professionalexp {
   margin-left: 75px;
   text-align: left;
   margin-top: 20px;
 }
-#education{
+#education {
   margin-left: 75px;
   text-align: left;
   margin-top: 20px;
 }
-#uofp{
+#uofp {
   margin-left: 20px;
 }
-#uofm{
+#uofm {
   margin-left: 20px;
 }
-#ctcc{
+#ctcc {
   margin-left: 20px;
 }
-#pstc{
+#pstc {
   margin-left: 20px;
 }
-#ltgb{
+#ltgb {
   margin-left: 20px;
 }
-#addskills{
+#addskills {
   margin-left: 45px;
   text-align: left;
   margin-top: 20px;
