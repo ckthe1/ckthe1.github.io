@@ -33,7 +33,7 @@ p {
   margin: 25px 100px;  
   padding: 25px;
   background-color: #c0c0c0;
-  margin-radius: 10px;
+  border-radius: 10px 10px / 10px 10px;
 }
 #professionalexp {
   margin-left: 75px;
